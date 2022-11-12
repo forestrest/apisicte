@@ -1,0 +1,26 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api-vuejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forestrest/vuejs.git"
+  },
+  "author": "AG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forestrest/vuejs/issues"
+  },
+  "homepage": "https://github.com/forestrest/vuejs#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "middlewares": "^0.1.1",
+    "mysql": "^2.18.1"
+  }
+}
